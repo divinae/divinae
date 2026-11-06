@@ -2,8 +2,7 @@
 
 I'm an Android developer, writing Kotlin at work.
 
-In my spare time I build for KDE Plasma 6, the desktop I use every day: widgets, a KWin effect,
-and a couple of forks I look after. Plus LogLens, a desktop tool for Android logs.
+In my spare time I build for KDE Plasma 6, the desktop I use every day.
 
 **More, with screenshots: [divinae.github.io](https://divinae.github.io)**
 
