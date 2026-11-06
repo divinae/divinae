@@ -16,6 +16,7 @@ In my spare time I build for KDE Plasma 6, the desktop I use every day.
 | [**Karousel Overview**](https://github.com/divinae/karousel-overview) | A Niri-style overview effect for KWin and the Karousel scrollable tiling script · [KDE Store](https://store.kde.org/p/2379855/) |
 | [**Shift**](https://github.com/divinae/shift-plasmoid) | Sit/stand reminders, and a motorized desk that moves for you · [KDE Store](https://store.kde.org/p/2379558/) |
 | [**USwitch**](https://github.com/divinae/uswitch) | Plasma's User Switcher with your apps in it · [KDE Store](https://store.kde.org/p/2135898/) |
+| [**Zephyr**](https://github.com/divinae/zephyr-theme) | Lauds (light) and Compline (dark): calm, near-monochrome themes from the Compline palette, with a light/dark sync |
 | [**Taskline**](https://github.com/divinae/taskline) | Fork of [Fancy Tasks NG](https://github.com/daydve/FancyTasksNG) by Vitaliy Elin: a task manager with previews, media controls and badges |
 
 #### Tools
