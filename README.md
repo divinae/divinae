@@ -4,7 +4,7 @@ I'm an Android developer, writing Kotlin at work. In my spare time I build for K
 desktop I use every day. More, with screenshots: **[divinae.github.io](https://divinae.github.io)**
 
 **KDE Plasma**
-- [Glance](https://github.com/divinae/glance-plasmoid): everything at a glance from a vertical panel
+- [Glance](https://github.com/divinae/glance-plasmoid): everything at a glance from a vertical panel · [KDE Store](https://store.kde.org/p/2381246/)
 - [Fokus](https://github.com/divinae/focus-plasmoid): a pomodoro and flowmodoro timer · [KDE Store](https://store.kde.org/p/2117117/)
 - [Event Calendar NG](https://github.com/divinae/event-calendar-ng-plasmoid): a redesign of Event Calendar · [KDE Store](https://store.kde.org/p/2379570/)
 - [Karousel Overview](https://github.com/divinae/karousel-overview): a Niri-style overview for Karousel · [KDE Store](https://store.kde.org/p/2379855/)
