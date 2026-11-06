@@ -1,8 +1,9 @@
 ### Hi, I'm Jakub 👋
 
-Android developer (Kotlin). In spare time I make KDE Plasma 6 work the way I want it: widgets for
-a vertical panel, a focus timer, a standing desk that moves on its own, an overview for scrollable
-tiling, and LogLens for reading Android logs.
+I'm an Android developer, writing Kotlin at work.
+
+In my spare time I build for KDE Plasma 6, the desktop I use every day: widgets, a KWin effect,
+and a couple of forks I look after. Plus LogLens, a desktop tool for Android logs.
 
 **More, with screenshots: [divinae.github.io](https://divinae.github.io)**
 
